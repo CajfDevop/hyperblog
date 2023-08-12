@@ -1,7 +1,8 @@
 ### Hyperblog 💚💚
 
 > Es un curso que tomé para aprender a trabajar en el entorno local usando Git y el remoto usando GitHUB
-En este curso aprenderemos.
+
+En este curso aprenderemos:
 >- Todos los comandos de Git
 >- El flujo de trabajo en Github
 >- El uso de la buenas prácticas

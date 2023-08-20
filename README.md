@@ -8,6 +8,8 @@ En este curso aprenderemos:
 >- El uso de la buenas prácticas
 >- Y mucho mas.
 >- Creado por este humilde servidor
+>- Incluye ejemplos varios
+>- Disponible para todas las edades
 
 # Carlos Jaramillo (CajfDevop)
 

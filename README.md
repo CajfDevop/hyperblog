@@ -9,6 +9,7 @@ En este curso aprenderemos:
 >- Y mucho mas.
 >- Creado por este humilde servidor
 >- Incluye ejemplos varios
+>- Disponible para todas las edades
 
 # Carlos Jaramillo (CajfDevop)
 
